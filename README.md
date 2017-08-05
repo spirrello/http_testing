@@ -1,4 +1,4 @@
-# Python scripts for load testing a URL and measuring latency.
+# Python scripts for load testing URLs and measuring latency.
 
 ## http_loadtesting.py
 
